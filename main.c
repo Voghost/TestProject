@@ -4,6 +4,11 @@ int fun(int a, int b) {
     return a + b;
 }
 
+double cheng(int a,int b)
+{
+   return a*b;
+}
+
 double div (double a, double b) {
     return a / b;
 }
